@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.movie_list{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 2% 10%;
+}
